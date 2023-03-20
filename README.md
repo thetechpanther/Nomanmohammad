@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://thetechpanther.io)
 <h1 align="center">Hi 👋, I'm Noman Mohammad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right' alt="coding" width='400' src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="relative' alt="coding" width='450' src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetechpanther&label=Profile%20views&color=0e75b6&style=flat" alt="thetechpanther" /> </p>
 
 - 🔭 I’m currently working on [website](thetechpanther.com)
